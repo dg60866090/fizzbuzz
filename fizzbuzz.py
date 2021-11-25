@@ -1,7 +1,7 @@
 
 def do_fizzbuzz():
-
-   print ('Do fizzbuzz!')
+   for i in ragne(1,15+1):
+     print ('{}'.format(i))
    return True
 
 
