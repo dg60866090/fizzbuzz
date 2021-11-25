@@ -4,7 +4,7 @@ def do_fizzbuzz():
   Do fizzbuzz with for and if 
   While i goes up 1 to 15, 
   print 'fizz' if i is time of 3 (done) 
-  print 'buzz' if i is times of 5
+  print 'buzz' if i is times of 5 (done)
   print 'fizzbuzz' if i is times of 15
   else, print i (string)
   """
